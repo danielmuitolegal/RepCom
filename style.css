@@ -5,6 +5,14 @@
 .abaa {
     background-color: rgba(118, 199, 199, 0.432);
     border-radius: 16px;
+    margin: 10px;
+}
+
+.abab {
+    background-color: rgba(118, 199, 199, 0.432);
+    border-radius: 16px;
+    margin: 10px;
+    width: 475px;
 }
 
 .robo {
