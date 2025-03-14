@@ -1,3 +1,20 @@
 .flexivel {
     display: flex;
 }
+
+.abaa {
+    background-color: rgba(118, 199, 199, 0.432);
+    border-radius: 16px;
+}
+
+.robo {
+    max-width: 200px;
+}
+
+.opc {
+    
+}
+
+div {
+    margin: 10px;
+}
