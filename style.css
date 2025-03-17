@@ -3,13 +3,14 @@
 }
 
 .abaa {
-    background-color: rgba(118, 199, 199, 0.432);
+    background-color: #d9e9fd;
     border-radius: 16px;
     margin: 10px;
+    width: 750px;
 }
 
 .abab {
-    background-color: rgba(118, 199, 199, 0.432);
+    background-color: #d9e9fd;
     border-radius: 16px;
     margin: 10px;
     width: 475px;
