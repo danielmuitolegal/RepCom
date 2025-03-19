@@ -1,3 +1,14 @@
+.nunito-sans-<uniquifier> {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "YTLC" 500;
+  }
+  
+
 .flexivel {
     display: flex;
 }
@@ -21,8 +32,31 @@
     max-width: 200px;
 }
 
-.opc {
-    
+.tudobem {
+    color: rgb(35, 61, 177);
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.ajuda {
+    color: rgb(35, 61, 177);
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fale {
+    background-color: rgb(35, 61, 177);
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.fale button {
+    background-color: rgb(217, 220, 233);
+    shape-outside: margin-box;
 }
 
 div {
